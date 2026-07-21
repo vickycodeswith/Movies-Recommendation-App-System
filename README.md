@@ -242,13 +242,11 @@ The project uses the **TMDB 5000 Movie Dataset**, containing approximately:
 
 ## 📸 Application Screenshots
 
-Add screenshots of your deployed application in a folder named `screenshots`.
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/eb6a81e6-5206-40b5-bf07-301573b13705" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/c558db4d-9a10-4da4-8193-08e66582af03" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/306d2b5f-78d0-4870-adb5-2fdaa4a1a633" />
 
-Example:
 
-```markdown
-![Home Page](screenshots/home-page.png)
-![Recommendations](screenshots/recommendations.png)
 ```
 
 ---
