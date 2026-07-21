@@ -242,10 +242,9 @@ The project uses the **TMDB 5000 Movie Dataset**, containing approximately:
 
 ## 📸 Application Screenshots
 
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/eb6a81e6-5206-40b5-bf07-301573b13705" />
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/c558db4d-9a10-4da4-8193-08e66582af03" />
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/306d2b5f-78d0-4870-adb5-2fdaa4a1a633" />
-
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/4aeda692-86fb-4035-a516-88842660eea1" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/39a82d13-2452-4553-ac6f-591d13efbff6" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/6c73ab51-20f5-4f41-b167-846a15c513f4" />
 
 ```
 
